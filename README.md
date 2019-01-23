@@ -1,5 +1,5 @@
 # Rush-Hour-OOP
-Object Oriented Programming (Term Project)
+Object Oriented Programming Term Project (Group of 3)
 
 ### What is Rush Hour?
 Rush Hour is a sliding block logic game, which is considered as one of the best logic games of all time where your main goal is to lead the red car to the exit by moving the other vehicles on the map out of the way. In the original version of the game there are 40 challenges, ranging in difficulty, which will push the player to think strategically before making a move. Main goal is to implement the game with our own style in order to make the players have a better experience in virtual life when compared to playing in real life. To do this we have our own additions and changes made to the original Rush Hour game.
